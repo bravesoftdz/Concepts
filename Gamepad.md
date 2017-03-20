@@ -7,6 +7,7 @@
 <br>Гироскоп позволяет использовать геймпад как руль.
 <br>Разделенная крестовина удобнее объединенной.
 <h2>EN: Gamepad with touch area</h2>
+
 Concept gamepad Xbox 360 with the touch area, gyroscope and split crosspiece.<br>
 <br>Touch area  ([GlidePoint TM040040](http://www.cirque.com/glidepoint-tm040040)) replaces the right stick, allowing for more precise control.
 <br>Gyroscope enables gamepad as a rudder.
