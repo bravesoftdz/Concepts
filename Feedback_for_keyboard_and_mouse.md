@@ -5,5 +5,6 @@
 Концепт устройства одевающийся на руки, которое позволяет получать обратную отдачу в приложениях и играх, используя клавиатуру и мышь.<br>
 XInput библиотека для устройства - [XInput](https://github.com/r57zone/XInput).
 <h2>EN: Feedback for keyboard and mouse</h2>
+
 Concept Device dressing on the hand, which allows you to get feedback in return applications and games using the keyboard and mouse.<br>
 XInput library for device - [XInput](https://github.com/r57zone/XInput).
