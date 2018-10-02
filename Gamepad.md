@@ -1,4 +1,4 @@
-##RU: Геймпад с сенсорной областью
+## RU: Геймпад с сенсорной областью
 
 ![](https://github.com/r57zone/Concepts/blob/master/Gamepad.png)
 
@@ -28,7 +28,7 @@
 
 Гироскоп может использоваться для прыжков, с разной силой, для вращения платформ и так далее.
 
-##EN: Gamepad with touch area
+## EN: Gamepad with touch area
 
 Concept gamepad Xbox 360 with touch area, gyroscope and split crosspiece.
 
